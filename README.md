@@ -111,7 +111,7 @@ Example:
 
 ## 👥 Authors
 
-- Edjina Rangga A. (2401121011)
+- Edgina Rangga A. (2401121011)
 - Amelia Yulianti (230112004)
 
 ---
